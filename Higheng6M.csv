@@ -1,0 +1,190 @@
+UserID,Tier,MonthsActive,HoursStreamed,Region,Price,TotalRevenue,Engagement_tier
+10002,Basic,5,401.6942672927111,Europe,9.99,49.95,High Engagement
+10014,Premium,3,444.0931730148013,Europe,19.99,59.97,High Engagement
+10033,Standard,2,368.030066241633,Latin America,14.99,29.98,High Engagement
+10109,Basic,3,352.24217313491874,Asia,9.99,29.97,High Engagement
+10112,Standard,1,369.17052463330623,North America,14.99,14.99,High Engagement
+10129,Premium,4,351.326181436525,Europe,19.99,79.96,High Engagement
+10190,Premium,3,382.61269697948376,Europe,19.99,59.97,High Engagement
+10213,Premium,3,363.6583606264186,North America,19.99,59.97,High Engagement
+10218,Premium,5,372.755497137298,North America,19.99,99.94999999999999,High Engagement
+10236,Standard,4,406.1995241582348,North America,14.99,59.96,High Engagement
+10283,Premium,4,376.68917002387593,Europe,19.99,79.96,High Engagement
+10284,Standard,3,375.2442086053479,Latin America,14.99,44.97,High Engagement
+10323,Standard,3,392.52013182332234,North America,14.99,44.97,High Engagement
+10354,Basic,5,382.4883850245725,Asia,9.99,49.95,High Engagement
+10391,Standard,5,358.58473138433993,Europe,14.99,74.95,High Engagement
+10412,Standard,4,350.041430912543,Europe,14.99,59.96,High Engagement
+10420,Standard,4,350.8860715339311,Latin America,14.99,59.96,High Engagement
+10452,Basic,1,392.4051236016429,North America,9.99,9.99,High Engagement
+10480,Premium,2,355.9020158907437,North America,19.99,39.98,High Engagement
+10539,Standard,3,482.37245755534434,Latin America,14.99,44.97,High Engagement
+10546,Standard,4,386.4173899150244,Asia,14.99,59.96,High Engagement
+10572,Basic,4,352.1599302763809,Latin America,9.99,39.96,High Engagement
+10624,Basic,4,354.43419561123005,Latin America,9.99,39.96,High Engagement
+10628,Standard,5,375.41994280731456,Europe,14.99,74.95,High Engagement
+10651,Premium,3,375.3510681578107,Latin America,19.99,59.97,High Engagement
+10677,Basic,1,375.50814142172385,Latin America,9.99,9.99,High Engagement
+10702,Premium,1,404.0364017564947,Latin America,19.99,19.99,High Engagement
+10707,Premium,1,352.6059512866451,North America,19.99,19.99,High Engagement
+10719,Basic,1,373.9982227883898,Asia,9.99,9.99,High Engagement
+10725,Basic,1,399.35278138126785,Latin America,9.99,9.99,High Engagement
+10727,Basic,3,369.2802676430229,Europe,9.99,29.97,High Engagement
+10759,Premium,3,413.39216304937463,North America,19.99,59.97,High Engagement
+10765,Basic,3,436.9137998950515,Latin America,9.99,29.97,High Engagement
+10790,Standard,2,364.9655016727234,Europe,14.99,29.98,High Engagement
+10798,Standard,2,362.5205956750741,North America,14.99,29.98,High Engagement
+10867,Basic,2,364.7750923265808,Asia,9.99,19.98,High Engagement
+10875,Premium,5,390.1452414372252,Latin America,19.99,99.94999999999999,High Engagement
+10946,Premium,5,390.0596503121013,North America,19.99,99.94999999999999,High Engagement
+10948,Premium,4,368.6587563477675,Latin America,19.99,79.96,High Engagement
+10962,Standard,3,352.7576390207778,Latin America,14.99,44.97,High Engagement
+10995,Standard,4,447.841131419515,Europe,14.99,59.96,High Engagement
+10999,Premium,4,354.23231004597665,Latin America,19.99,79.96,High Engagement
+11034,Standard,5,360.0086917674232,Asia,14.99,74.95,High Engagement
+11148,Premium,4,350.27268051669705,Europe,19.99,79.96,High Engagement
+11160,Basic,5,360.6909362877974,North America,9.99,49.95,High Engagement
+11228,Basic,4,437.3822862791121,North America,9.99,39.96,High Engagement
+11259,Standard,3,376.92599293474035,Latin America,14.99,44.97,High Engagement
+11275,Standard,3,365.5330929832505,Europe,14.99,44.97,High Engagement
+11304,Premium,4,350.95748458856934,Asia,19.99,79.96,High Engagement
+11342,Standard,1,380.5706114947743,Latin America,14.99,14.99,High Engagement
+11384,Basic,1,384.7498901256263,Europe,9.99,9.99,High Engagement
+11398,Standard,4,386.25667221813285,Europe,14.99,59.96,High Engagement
+11400,Standard,4,365.2117579641209,Europe,14.99,59.96,High Engagement
+11455,Premium,5,357.5732252014057,North America,19.99,99.94999999999999,High Engagement
+11461,Premium,2,380.8437902556436,Latin America,19.99,39.98,High Engagement
+11481,Basic,4,470.1554654791351,Asia,9.99,39.96,High Engagement
+11538,Premium,3,354.94209625533693,Europe,19.99,59.97,High Engagement
+11563,Standard,2,399.40274769694815,Latin America,14.99,29.98,High Engagement
+11591,Basic,4,439.7445811938964,Europe,9.99,39.96,High Engagement
+11605,Basic,4,395.0019810785768,North America,9.99,39.96,High Engagement
+11661,Basic,3,381.3194456445358,Latin America,9.99,29.97,High Engagement
+11700,Basic,4,385.45668383777206,Asia,9.99,39.96,High Engagement
+11715,Basic,5,393.4004101789523,Latin America,9.99,49.95,High Engagement
+11717,Standard,1,351.1884286666529,Asia,14.99,14.99,High Engagement
+11751,Premium,2,350.99287469577223,Asia,19.99,39.98,High Engagement
+11763,Basic,3,403.65311932741383,Europe,9.99,29.97,High Engagement
+11801,Basic,4,396.48303987044306,Latin America,9.99,39.96,High Engagement
+11803,Standard,2,365.20458862821465,Europe,14.99,29.98,High Engagement
+11811,Premium,5,370.42148744238386,North America,19.99,99.94999999999999,High Engagement
+11834,Basic,5,375.7836902640153,Latin America,9.99,49.95,High Engagement
+11930,Premium,1,409.12234804976526,Asia,19.99,19.99,High Engagement
+11953,Standard,1,427.5560773020341,North America,14.99,14.99,High Engagement
+11960,Premium,3,366.63989006105066,Europe,19.99,59.97,High Engagement
+11974,Standard,2,376.5661041427595,Asia,14.99,29.98,High Engagement
+12002,Basic,2,433.9277434651543,Asia,9.99,19.98,High Engagement
+12003,Basic,1,398.77252393270146,Asia,9.99,9.99,High Engagement
+12017,Standard,1,357.732213966915,Asia,14.99,14.99,High Engagement
+12024,Premium,2,352.6070677611174,North America,19.99,39.98,High Engagement
+12058,Basic,4,365.43979001311806,Asia,9.99,39.96,High Engagement
+12109,Premium,4,379.5972876536324,North America,19.99,79.96,High Engagement
+12118,Basic,3,397.925835931165,Asia,9.99,29.97,High Engagement
+12142,Basic,3,352.41448468946993,North America,9.99,29.97,High Engagement
+12183,Premium,4,382.36853541630785,Asia,19.99,79.96,High Engagement
+12240,Premium,3,409.341717237176,Asia,19.99,59.97,High Engagement
+12243,Premium,1,379.42703446110784,Asia,19.99,19.99,High Engagement
+12254,Basic,1,430.36281566904796,Latin America,9.99,9.99,High Engagement
+12326,Basic,2,352.324468312815,Latin America,9.99,19.98,High Engagement
+12337,Basic,4,358.5208109790235,Latin America,9.99,39.96,High Engagement
+12357,Basic,5,362.87965289562476,North America,9.99,49.95,High Engagement
+12360,Basic,1,362.1272732301878,North America,9.99,9.99,High Engagement
+12367,Premium,1,454.143411092987,North America,19.99,19.99,High Engagement
+12377,Basic,4,388.90300336102524,Latin America,9.99,39.96,High Engagement
+12381,Standard,4,357.6678244872718,North America,14.99,59.96,High Engagement
+12473,Basic,5,365.70522754598323,North America,9.99,49.95,High Engagement
+12479,Premium,5,453.27487332511697,North America,19.99,99.94999999999999,High Engagement
+12500,Standard,1,423.8227591505409,Europe,14.99,14.99,High Engagement
+12507,Standard,4,360.08878337479825,North America,14.99,59.96,High Engagement
+12509,Premium,2,444.91171750559363,Asia,19.99,39.98,High Engagement
+12550,Standard,2,379.23060382346875,Latin America,14.99,29.98,High Engagement
+12587,Standard,2,369.47230720205357,North America,14.99,29.98,High Engagement
+12613,Premium,2,364.5109497682949,Asia,19.99,39.98,High Engagement
+12614,Basic,2,392.691865392217,Asia,9.99,19.98,High Engagement
+12615,Premium,1,464.89090173144723,Europe,19.99,19.99,High Engagement
+12617,Basic,2,461.8165319796402,Europe,9.99,19.98,High Engagement
+12674,Basic,2,350.94512558787363,North America,9.99,19.98,High Engagement
+12704,Basic,5,372.7811805994557,Latin America,9.99,49.95,High Engagement
+12713,Basic,5,369.80479699162174,Latin America,9.99,49.95,High Engagement
+12735,Basic,4,372.9220395699875,Asia,9.99,39.96,High Engagement
+12741,Standard,2,373.9684788422816,North America,14.99,29.98,High Engagement
+12742,Standard,2,405.83331888988334,Europe,14.99,29.98,High Engagement
+12750,Standard,5,362.35088277283205,North America,14.99,74.95,High Engagement
+12778,Basic,5,398.903529644522,Europe,9.99,49.95,High Engagement
+12782,Standard,2,419.05285816908395,Asia,14.99,29.98,High Engagement
+12822,Basic,2,350.0671895629518,Latin America,9.99,19.98,High Engagement
+12838,Basic,4,447.75018564591915,Asia,9.99,39.96,High Engagement
+12909,Basic,1,380.9394227704852,Europe,9.99,9.99,High Engagement
+12919,Premium,2,370.00733851153586,North America,19.99,39.98,High Engagement
+12920,Premium,1,364.6248672614684,Asia,19.99,19.99,High Engagement
+12940,Premium,4,405.8007579677465,Latin America,19.99,79.96,High Engagement
+12981,Basic,3,371.1904367591735,Europe,9.99,29.97,High Engagement
+12998,Basic,2,357.0496488696077,North America,9.99,19.98,High Engagement
+13019,Premium,2,434.49039887720346,North America,19.99,39.98,High Engagement
+13024,Premium,2,353.08637360706695,Latin America,19.99,39.98,High Engagement
+13043,Premium,1,359.03801778414135,Asia,19.99,19.99,High Engagement
+13066,Basic,4,373.1071470791736,Latin America,9.99,39.96,High Engagement
+13129,Premium,3,372.2597473655808,Latin America,19.99,59.97,High Engagement
+13135,Premium,2,368.06100895243065,Asia,19.99,39.98,High Engagement
+13147,Standard,2,351.4271909444613,North America,14.99,29.98,High Engagement
+13221,Standard,3,416.07474569174474,Europe,14.99,44.97,High Engagement
+13243,Basic,2,437.90866790176705,Europe,9.99,19.98,High Engagement
+13276,Premium,3,353.73958864970075,Asia,19.99,59.97,High Engagement
+13345,Basic,1,443.9481381762922,Latin America,9.99,9.99,High Engagement
+13350,Standard,3,381.4218931841524,North America,14.99,44.97,High Engagement
+13375,Premium,5,363.6560361511157,North America,19.99,99.94999999999999,High Engagement
+13383,Basic,1,371.2783693391262,Europe,9.99,9.99,High Engagement
+13403,Premium,1,422.9459939475805,Latin America,19.99,19.99,High Engagement
+13443,Standard,1,369.40186739320626,North America,14.99,14.99,High Engagement
+13469,Basic,3,486.83284622832235,Asia,9.99,29.97,High Engagement
+13487,Basic,1,403.84352074520973,Europe,9.99,9.99,High Engagement
+13502,Premium,1,359.62877621928385,Latin America,19.99,19.99,High Engagement
+13517,Standard,1,357.53746289948833,Latin America,14.99,14.99,High Engagement
+13564,Standard,5,350.7041396013389,Asia,14.99,74.95,High Engagement
+13627,Basic,1,380.348873884264,Asia,9.99,9.99,High Engagement
+13638,Standard,2,403.4240910757866,Latin America,14.99,29.98,High Engagement
+13659,Premium,4,382.2234739403049,Asia,19.99,79.96,High Engagement
+13680,Basic,3,418.0694917154344,Europe,9.99,29.97,High Engagement
+13714,Basic,2,360.96113213956545,Asia,9.99,19.98,High Engagement
+13733,Premium,1,370.0805729623294,Europe,19.99,19.99,High Engagement
+13740,Premium,2,369.13353821800837,North America,19.99,39.98,High Engagement
+13764,Basic,3,370.60504353795466,Europe,9.99,29.97,High Engagement
+13780,Standard,1,351.0205933291747,North America,14.99,14.99,High Engagement
+13811,Premium,2,361.87553941013556,North America,19.99,39.98,High Engagement
+13818,Premium,2,365.7105080327261,Europe,19.99,39.98,High Engagement
+13824,Basic,1,370.4258468561841,North America,9.99,9.99,High Engagement
+13853,Basic,3,388.6081828079164,Asia,9.99,29.97,High Engagement
+13901,Premium,3,354.8383230273624,Europe,19.99,59.97,High Engagement
+13932,Basic,4,370.77197353621534,Latin America,9.99,39.96,High Engagement
+13939,Standard,3,365.30475480132174,Latin America,14.99,44.97,High Engagement
+13943,Basic,2,374.8144041087925,Asia,9.99,19.98,High Engagement
+14011,Standard,4,384.04299734535016,Latin America,14.99,59.96,High Engagement
+14037,Standard,2,396.4794771654922,Asia,14.99,29.98,High Engagement
+14079,Premium,2,354.35934752169567,Latin America,19.99,39.98,High Engagement
+14110,Premium,2,350.16778416525676,Asia,19.99,39.98,High Engagement
+14134,Standard,2,363.5710551790363,Asia,14.99,29.98,High Engagement
+14172,Basic,1,402.0112837031794,North America,9.99,9.99,High Engagement
+14187,Standard,4,357.5632777390245,North America,14.99,59.96,High Engagement
+14209,Premium,3,357.5225206613408,Latin America,19.99,59.97,High Engagement
+14242,Premium,5,374.8856786907836,Latin America,19.99,99.94999999999999,High Engagement
+14266,Standard,1,412.88520005474516,North America,14.99,14.99,High Engagement
+14306,Standard,2,354.2982696962468,Europe,14.99,29.98,High Engagement
+14380,Premium,3,362.26602053881425,Europe,19.99,59.97,High Engagement
+14418,Standard,3,361.34813964073805,North America,14.99,44.97,High Engagement
+14420,Premium,1,369.2080962671274,Asia,19.99,19.99,High Engagement
+14435,Basic,2,439.7777251481267,Asia,9.99,19.98,High Engagement
+14577,Premium,5,412.41410891549174,North America,19.99,99.94999999999999,High Engagement
+14685,Basic,4,401.6630575065534,North America,9.99,39.96,High Engagement
+14686,Premium,2,387.33828516744154,Europe,19.99,39.98,High Engagement
+14717,Basic,5,363.64885707428516,Europe,9.99,49.95,High Engagement
+14719,Basic,3,375.5703074553348,Latin America,9.99,29.97,High Engagement
+14763,Standard,3,365.8631096813694,Europe,14.99,44.97,High Engagement
+14765,Standard,5,352.075502857733,Europe,14.99,74.95,High Engagement
+14768,Basic,1,360.8290221476556,Latin America,9.99,9.99,High Engagement
+14823,Standard,2,388.6497301724913,Latin America,14.99,29.98,High Engagement
+14832,Standard,4,362.961043058121,Europe,14.99,59.96,High Engagement
+14843,Premium,1,355.4235698130973,Europe,19.99,19.99,High Engagement
+14854,Premium,5,389.8149644415512,Asia,19.99,99.94999999999999,High Engagement
+14863,Premium,1,437.7378843179283,Latin America,19.99,19.99,High Engagement
+14909,Premium,2,363.9502263317983,Latin America,19.99,39.98,High Engagement
+14928,Premium,2,468.5581911826271,Asia,19.99,39.98,High Engagement
