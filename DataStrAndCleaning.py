@@ -1,4 +1,4 @@
-from creating_data import df
+from AnnualValue import df
 import AnnualValue
 import numpy as np
 np.random.seed(0)
@@ -13,7 +13,7 @@ df2=df.loc[(df['HoursStreamed']>450)]
 df2.to_csv('extremeUser.csv',index=False)
 df3=df.groupby('Region')['TotalRevenue'].sum()
 df4=df.groupby('Region')['MonthsActive'].mean()
-print(df3)
+#print(df3)
 print(df4)
 df['Engagement_tier']=''
 df.loc[(df['HoursStreamed']>350),'Engagement_tier']='High Engagement'
